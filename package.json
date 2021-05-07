@@ -9,6 +9,6 @@
     "ejs": "*",
     "express": "3.2.0",
     "mongodb": "2.2.33",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
